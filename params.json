@@ -1,0 +1,6 @@
+{
+  "name": "Game of life sql",
+  "tagline": "An elegant and simple implementation of Conway's Game of Life Using SQL.",
+  "body": "### Welcome to the most elegant solution in SQL for Conway's Game of Life.\r\nThis project is implemented in SQL Server using TSQL and Geospatial(Geometry features) to render the Game of Life grid.\r\nSee also the blog: https://sqlwithpanks.wordpress.com/2016/06/14/conways-game-of-life-in-tsql/\r\n\r\n### Have Fun\r\nJust download the sql code file and run it in SQL Server Management Studio. Since I am only using a table variable, you need not worry about cleaning up, nothing is preserved or created :)\r\n\r\n### Learn\r\nGo through the SQL code, think of it as a puzzle to understand and how it works. There is plenty of learning for anyone interested in honing SQL skills as well as Geospatial or just the fundamentals of the same.\r\n\r\n### Authors and Contributors\r\n@sqlwithpanks is the author and contributor. Visit https://sqlwithpanks.wordpress.com/ or more of such stuff.\r\n\r\n### Support or Contact\r\nHaving trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
